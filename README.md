@@ -9,7 +9,7 @@ Data exists all around us. Through data we can find patterns and educate ourselv
 - [personal_projects](https://github.com/DECKSY/personal_projects) (under construction) - here you will find an overview of my work with highlights from topics like:
   - Python coding
   - SQL 
-  - API using Python
+  - API & Webscraping using Python
   - Tableau Visualizations
   - Machine Learning predictor
 - Pinned Projects (under construction) - below you will see some of my fav personal projects in detail.
